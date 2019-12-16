@@ -57,27 +57,24 @@ h1 {
   padding-bottom: 30px;
 }
 
+.preview {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
-.preview_baku {
+.baku {
   background-image: url("../images/baku.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+
 }
 
-.preview_london {
+.london {
   background-image: url("../images/london.png");
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
-.preview_madrid {
+.madrid {
   background-image: url("../images/madrid.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
-.preview_rome {
+.rome {
   background-image: url("../images/rome.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
 }
